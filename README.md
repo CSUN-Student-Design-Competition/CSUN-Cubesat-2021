@@ -22,3 +22,4 @@
 10. On the top menu, navagate to [Tools] > [Burn Bootloader]
 11. Put all the code in the arduino IDE as you normally would.
 12. To push code onto the mega, press shift+upload button
+13. If you are still having trouble programming the board, refrence [this](https://www.youtube.com/watch?v=X5achE10rCI) video (ignore the curcuit diagram on that video)
