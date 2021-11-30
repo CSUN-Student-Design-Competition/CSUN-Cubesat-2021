@@ -6,6 +6,7 @@
 1. Connect the ICSP pins in the mega chip to the ICSP pins in the uno. The dot above the ICSP pins indicates the orientation of the pins. 
 2. In the programming board (the uno), connect the reset pin to regester 10 on the uno.
 3. Connect the uno to a computer using a usb type A to usb type b wire.
+
 ![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/megaProgrammerCircuitDiagram.png "Curcuit Diagram")
 
 ### Programming Chip
