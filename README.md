@@ -3,11 +3,11 @@
 ## Bootloading Mega 2560 Chip
 
 ### Hardwhare 
-1. Connect the ICSP pins in the mega chip to the ICSP pins in the uno. The dot above the ICSP pins indicates the orientation of the pins. 
-2. In the programming board (the uno), connect the reset pin to regester 10 on the uno.
-3. Connect the uno to a computer using a usb type A to usb type b wire.
+1. Connect the ICSP pins in the mega chip to the ICSP pins in the uno. The dot above the pins indicates their orientation. 
+2. In the programming board (the uno), connect the mega reset pin to the uno regester 10 pin.
+3. Connect the uno to a computer using a USB type A to USB type B cable.
 
-![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/megaProgrammerCircuitDiagram.png "Curcuit Diagram")
+![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/ICSPImage.png "ICSP Pin Diagram") ![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/megaProgrammerCircuitDiagram.png "Curcuit Diagram")
 
 ### Programming Chip
 1. Open Arduino IDE
@@ -22,4 +22,4 @@
 10. On the top menu, navagate to [Tools] > [Burn Bootloader]
 11. Put all the code in the arduino IDE as you normally would.
 12. To push code onto the mega, press shift+upload button
-13. If you are still having trouble programming the board, refrence [this](https://www.youtube.com/watch?v=X5achE10rCI) video (ignore the curcuit diagram on that video)
+13. If you are still having trouble with programming, refrence [this](https://www.youtube.com/watch?v=X5achE10rCI) video (ignore the curcuit diagram on that video)
