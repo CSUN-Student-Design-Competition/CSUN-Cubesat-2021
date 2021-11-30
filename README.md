@@ -3,11 +3,12 @@
 ## Bootloading Mega 2560 Chip
 
 ### Hardwhare 
-1. Connect the ICSP pins in the mega chip to the ICSP pins in the uno. The dot above the pins indicates their orientation. 
-2. In the programming board (the uno), connect the mega reset pin to the uno regester 10 pin.
-3. Connect the uno to a computer using a USB type A to USB type B cable.
+1. Connect the ICSP pins in the mega chip to the ICSP pins in the uno. The dot above the pins indicates their orientation.
 
 ![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/ICSPImage.png "ICSP Pin Diagram") 
+
+2. In the programming board (the uno), connect the mega reset pin to the uno regester 10 pin.
+3. Connect the uno to a computer using a USB type A to USB type B cable.
 
 ![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/elliotfayman/megaProgrammerCircuitDiagram.png "Curcuit Diagram")
 
