@@ -1,6 +1,5 @@
 # CSUN-Cubesat-2021
 
-
 ## Bootloading Mega 2560 Chip
 
 ### Hardwhare 
