@@ -10,7 +10,7 @@
 2. In the programming board (the uno), connect the mega reset pin to the uno regester 10 pin.
 3. Connect the uno to a computer using a USB type A to USB type B cable.
 
-![alt text](https://github.com/CSUN-Student-Design-Competition/CSUN-Cubesat-2021/blob/main/megaProgrammerCircuitDiagram.png "Curcuit Diagram")
+![alt text](megaProgrammerCircuitDiagram.png "Circuit Diagram")
 
 ### Programming Chip
 1. Open Arduino IDE
